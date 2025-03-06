@@ -12,8 +12,3 @@ Was the ISO task created and filled out? If this is not required here, please st
 - [ ] ISO Task was created and filled out, see AB#
 - [ ] ISO Task was created but does not need to be filled out yet, see AB#
 - [ ] No ISO Task required because 
-
-### Testing Instructions
-Describe how this change should be tested. Include:
-- Steps to test: What actions need to be performed to test this?
-- Expected behavior: What should happen when the change is tested?
